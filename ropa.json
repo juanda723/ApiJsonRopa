@@ -1,0 +1,96 @@
+{
+  "prendas": [
+    {
+      "id": 1,
+      "Nombre": "Camisa de hombre a cuadros",
+      "Tipo": "Camisa",
+      "Talla":"M",
+      "Color1":"Negro",
+      "Color2":"Negro",
+      "Tela":"Algodon",
+      "Genero":"Masculino",
+      "Edad":"Adulto",
+      "Descripcion": "hecho en taiwan por muchas perosnas",
+      "Url":"http://modadeoficina.com/wp-content/uploads/2013/03/camisa-manga-larga-para-hombre-4.jpg",
+      "Clasificacion": "Drama"
+    },
+    {
+      "id": 2,
+      "Nombre": "Camisa de hombre a cuadros",
+      "Tipo": "Camisa",
+      "Talla":"L",
+      "Color1":"Blanco",
+      "Color2":"Azul",
+      "Tela":"Algodon",
+      "Genero":"Masculino",
+      "Edad":"Adulto",
+      "Descripcion": "hecho en taiwan por muchas personas",
+      "Url":"http://www.llenamostutienda.com/23946-home_default/201516-camisa-manga-larga-hombre.jpg",
+      "Clasificacion": "Drama"
+    },
+    {
+      "id": 3,
+      "Nombre": "Pantalon de hombre",
+      "Tipo": "Pantalon",
+      "Talla":"30",
+      "Color1":"Azul",
+      "Color2":"Azul",
+      "Tela":"Algodon",
+      "Genero":"Masculino",
+      "Edad":"Adulto",
+      "Descripcion": "hecho en taiwan por muchas personas",
+      "Url":"https://sgfm.elcorteingles.es/SGFM/dctm/MEDIA03/201606/22/00151901601537____1__516x640.jpg",
+      "Clasificacion": "Drama"
+    },
+    {
+      "id": 4,
+      "Nombre": "Pantalon de hombre",
+      "Tipo": "Pantalon",
+      "Talla":"32",
+      "Color1":"Beige",
+      "Color2":"Beige",
+      "Tela":"Algodon",
+      "Genero":"Masculino",
+      "Edad":"Adulto",
+      "Descripcion": "hecho en taiwan por muchas personas",
+      "Url":"https://dew7o8qi0nw0w.cloudfront.net/images/products/41875/product/A4J0_254.jpg?1409711228",
+      "Clasificacion": "Drama"
+    },
+    {
+      "id": 5,
+      "nombre": "El silencio de los corderos",
+      "director": "Jonathan Demme",
+      "clasificacion": "Drama"
+    },
+    {
+      "id": 6,
+      "nombre": "Forrest Gump",
+      "director": "Robert Zemeckis",
+      "clasificacion": "Comedia"
+    },
+    {
+      "id": 7,
+      "nombre": "Las Hurdes",
+      "director": "Luis Buñuel",
+      "clasificacion": "Documental"
+    }
+  ],
+  "clasificaciones": [
+    {
+      "nombre": "Drama",
+      "id": 1
+    },
+    {
+      "nombre": "Comedia",
+      "id": 2
+    },
+    {
+      "nombre": "Documental",
+      "id": 3
+    },
+    {
+      "nombre": "Acción",
+      "id": 4
+    }
+  ]
+}
